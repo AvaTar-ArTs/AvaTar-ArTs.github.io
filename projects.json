@@ -1,0 +1,32 @@
+[
+  {
+    "title": "PulseForge & ACCOS",
+    "description": "Audio intelligence and asset orchestration indexing 37k+ audio tracks and 9k+ visual assets using Whisper, vector search, and automated metadata extraction.",
+    "tags": ["Whisper", "Python", "Vector Search", "Audio AI"]
+  },
+  {
+    "title": "Comic Creator Matrix",
+    "description": "Automated visual storytelling pipelines leveraging structured prompt matrices, character retention heuristics, and automated panel assembly.",
+    "tags": ["Midjourney", "DALL-E", "Pillow", "Comic AI"]
+  },
+  {
+    "title": "top-300 & Trend Engines",
+    "description": "Keyword research and trend discovery infrastructure driving automated n8n workflows and generative content orchestration.",
+    "tags": ["n8n", "GEO/AEO", "Trend Analytics", "APIs"]
+  },
+  {
+    "title": "Agent Skills & MCP Tooling",
+    "description": "Custom Model Context Protocol (MCP) servers and LLM skill extensions bridging command-line developer tools with agentic platforms.",
+    "tags": ["MCP", "Claude Code", "Zsh", "Automation"]
+  },
+  {
+    "title": "BulkImage Alchemist",
+    "description": "Batch processing pipeline handling image resizing, DPI optimization, watermarking, and automated visual enrichment for print-on-demand assets.",
+    "tags": ["OpenAI", "Pillow", "POD Automation"]
+  },
+  {
+    "title": "Video → LinkedIn Engine",
+    "description": "Cross-platform content transformation tool parsing raw media into SEO-tuned professional posts and structured narrative briefs.",
+    "tags": ["FFmpeg", "GPT-4", "Content Pipelines"]
+  }
+]
